@@ -1,0 +1,4 @@
+{
+    "default_model": "Systran/faster-whisper-tiny",
+    "default_audio_device": 1
+}
